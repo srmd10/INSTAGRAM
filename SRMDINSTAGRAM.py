@@ -1,3 +1,4 @@
+clear
 import requests,threading,webbrowser
 print("SARMAD @SRMD_TUBE")
 print("🔥نورت اقوئ ادا رشق انستا")
